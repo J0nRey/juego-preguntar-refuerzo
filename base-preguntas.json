@@ -222,7 +222,7 @@
     {
         "index": 21,
         "categoria":"POO Conocimientos Generales Refuerzo",
-        "pregunta":"32 Es un patron de diseño estructural que te permite <b>añadir funcionalidades</b> a objetos colocando estos objetos encapsuladores especiales que contienen estas funcionalidades",
+        "pregunta":"Es un patron de diseño estructural que te permite <b>añadir funcionalidades</b> a objetos colocando estos objetos encapsuladores especiales que contienen estas funcionalidades",
         "respuesta":"Decorator",
         "incorrecta1":"mal-1",
         "incorrecta2":"mal-2",
