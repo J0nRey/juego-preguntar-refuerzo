@@ -1,0 +1,233 @@
+[
+    {
+        "index": 1,
+        "categoria":"LitElement refuerzo",
+        "pregunta":"NO son partes del ciclo de vida de Lit Element",
+        "respuesta":"<b>shouldRender</b>, requestUpdated, firstRender, firstUpdate",
+        "incorrecta1":"mal-1",
+        "incorrecta2":"mal-2",
+        "incorrecta3":"mal-3",
+        "imagen":"",
+        "objectFit":"cover"
+    },
+    {
+        "index": 2,
+        "categoria":"LitElement refuerzo",
+        "pregunta":"¿Directiva que puede implementarse con lit?",
+        "respuesta":"<b>ifDefined</b>",
+        "incorrecta1":"mal-1",
+        "incorrecta2":"mal-2",
+        "incorrecta3":"mal-3",
+        "imagen":"",
+        "objectFit":"cover"
+    },
+    {
+        "index": 3,
+        "categoria":"LitElement refuerzo",
+        "pregunta":"¿Que es lit?",
+        "respuesta":"Una librería",
+        "incorrecta1":"mal-1",
+        "incorrecta2":"mal-2",
+        "incorrecta3":"mal-3",
+        "imagen":"",
+        "objectFit":"cover"
+    },
+    {
+        "index": 4,
+        "categoria":"LitElement refuerzo",
+        "pregunta":"¿Cual de los siguientes <b>NO</b> es un beneficio de trabajar con el shadow DOM?",
+        "respuesta":"<b>Encapsulation<b>",
+        "incorrecta1":"mal-1",
+        "incorrecta2":"mal-2",
+        "incorrecta3":"mal-3",
+        "imagen":"",
+        "objectFit":"cover"
+    },
+    {
+        "index": 5,
+        "categoria":"LitElement refuerzo",
+        "pregunta":"Este metodo es llamado cada vez que se asigna valor a una propiedadreactiva",
+        "respuesta":"hasChanged",
+        "incorrecta1":"mal-1",
+        "incorrecta2":"mal-2",
+        "incorrecta3":"mal-3",
+        "imagen":"",
+        "objectFit":"cover"
+    },
+    {
+        "index": 6,
+        "categoria":"LitElement refuerzo",
+        "pregunta":"Que es un slot",
+        "respuesta":"es un elemento HTML que nos permite definir <b>Marcadores</b> de posicionen tu plantilla que puedenrellenarce con cualquier fragmento de marcado cuando el elemento es usado",
+        "incorrecta1":"mal-1",
+        "incorrecta2":"mal-2",
+        "incorrecta3":"mal-3",
+        "imagen":"",
+        "objectFit":"cover"
+    },
+    {
+        "index": 7,
+        "categoria":"LitElement refuerzo",
+        "pregunta":"¿Cual es la secuencia del ciclo de vida de un componente después de su primer renderizado?",
+        "respuesta":"constructor -> connectedCallback -> <b>update -> render -> updated</b> -> firstUpdated",
+        "incorrecta1":"mal-1",
+        "incorrecta2":"mal-2",
+        "incorrecta3":"mal-3",
+        "imagen":"",
+        "objectFit":"cover"
+    },
+    {
+        "index": 8,
+        "categoria":"LitElement refuerzo",
+        "pregunta":"¿Cual es la secuencia del ciclo de vida de un componente después de su primer renderizado?",
+        "respuesta":"<b>update -> render -> updated</b>",
+        "incorrecta1":"mal-1",
+        "incorrecta2":"mal-2",
+        "incorrecta3":"mal-3",
+        "imagen":"",
+        "objectFit":"cover"
+    },
+    {
+        "index": 9,
+        "categoria":"JavaScript",
+        "pregunta":"Cuales No son palabras reservadas en JavaScript",
+        "respuesta":"<b>field</b>, constant, variable, wait",
+        "incorrecta1":"mal-1",
+        "incorrecta2":"mal-2",
+        "incorrecta3":"mal-3",
+        "imagen":"",
+        "objectFit":"cover"
+    },
+    {
+        "index": 10,
+        "categoria":"POO Conocimientos Generales Refuerzo",
+        "pregunta":"codigo de respuesta HTTP que regresa si el clientetiene <b>prohibido el acceso</b>",
+        "respuesta":"403",
+        "incorrecta1":"mal-1",
+        "incorrecta2":"mal-2",
+        "incorrecta3":"mal-3",
+        "imagen":"",
+        "objectFit":"cover"
+    },
+    {
+        "index": 11,
+        "categoria":"POO Conocimientos Generales Refuerzo",
+        "pregunta":"Codigo de remoto que devuelve una API cuando ocurre un error de <b>timeout</b>",
+        "respuesta":"504",
+        "incorrecta1":"mal-1",
+        "incorrecta2":"mal-2",
+        "incorrecta3":"mal-3",
+        "imagen":"",
+        "objectFit":"cover"
+    },
+    {
+        "index": 12,
+        "categoria":"POO Conocimientos Generales Refuerzo",
+        "pregunta":"Codigo de respuesta HTTP indicando que el recurso de destino <b>no existe</b>",
+        "respuesta":"404",
+        "incorrecta1":"mal-1",
+        "incorrecta2":"mal-2",
+        "incorrecta3":"mal-3",
+        "imagen":"",
+        "objectFit":"cover"
+    },
+    {
+        "index": 13,
+        "categoria":"POO Conocimientos Generales Refuerzo",
+        "pregunta":"Código de respuesta HTTP cuando la solicitud es exitosa, pero <b>no devuelve ningún contenido</b>",
+        "respuesta":"204",
+        "incorrecta1":"mal-1",
+        "incorrecta2":"mal-2",
+        "incorrecta3":"mal-3",
+        "imagen":"",
+        "objectFit":"cover"
+    },
+    {
+        "index": 14,
+        "categoria":"POO Conocimientos Generales Refuerzo",
+        "pregunta":"Código de retorno que devuelve una API cuando la solicitud tiene una <b>sintaxis inválida</b>",
+        "respuesta":"400",
+        "incorrecta1":"mal-1",
+        "incorrecta2":"mal-2",
+        "incorrecta3":"mal-3",
+        "imagen":"",
+        "objectFit":"cover"
+    },
+    {
+        "index": 15,
+        "categoria":"POO Conocimientos Generales Refuerzo",
+        "pregunta":"Es un mecanismo basado en cabeceras http que permite a un servidor indicar cualquier origen distinto del propio, desde el cuál un navegador tendría permitido obtener sus recursos.",
+        "respuesta":"<b>CORS</b>",
+        "incorrecta1":"mal-1",
+        "incorrecta2":"mal-2",
+        "incorrecta3":"mal-3",
+        "imagen":"",
+        "objectFit":"cover"
+    },
+    {
+        "index": 16,
+        "categoria":"POO Conocimientos Generales Refuerzo",
+        "pregunta":"Esta cabecera indica el tipo que el cliente es capaz de entender como <b>respuesta del servidor</b>",
+        "respuesta":"Accept",
+        "incorrecta1":"mal-1",
+        "incorrecta2":"mal-2",
+        "incorrecta3":"mal-3",
+        "imagen":"",
+        "objectFit":"cover"
+    },
+    {
+        "index": 17,
+        "categoria":"POO Conocimientos Generales Refuerzo",
+        "pregunta":"Esto se genera cuando el servidor de alojamiento (servidor de origen) soporta el método recibido, pero el recurso de destino no lo hace.",
+        "respuesta":"405",
+        "incorrecta1":"mal-1",
+        "incorrecta2":"mal-2",
+        "incorrecta3":"mal-3",
+        "imagen":"",
+        "objectFit":"cover"
+    },
+    {
+        "index": 18,
+        "categoria":"POO Conocimientos Generales Refuerzo",
+        "pregunta":"El servidor <b>no está disponible</b> para manejar esta solicitud <b>en este momento</b>.",
+        "respuesta":"503",
+        "incorrecta1":"mal-1",
+        "incorrecta2":"mal-2",
+        "incorrecta3":"mal-3",
+        "imagen":"",
+        "objectFit":"cover"
+    },
+    {
+        "index": 19,
+        "categoria":"POO Conocimientos Generales Refuerzo",
+        "pregunta":"El siguiente patron de diseño define un mecanismo para modificar a uno o varios objetos sobre cualquier evento que ocurra con el objeto que se <b>monitorea</b>",
+        "respuesta":"Observer",
+        "incorrecta1":"mal-1",
+        "incorrecta2":"mal-2",
+        "incorrecta3":"mal-3",
+        "imagen":"",
+        "objectFit":"cover"
+    },
+    {
+        "index": 20,
+        "categoria":"POO Conocimientos Generales Refuerzo",
+        "pregunta":"Código de retorno que devuelve una API cuando la <b>respuesta es exitosa</b>",
+        "respuesta":"200",
+        "incorrecta1":"mal-1",
+        "incorrecta2":"mal-2",
+        "incorrecta3":"mal-3",
+        "imagen":"",
+        "objectFit":"cover"
+    },
+    {
+        "index": 21,
+        "categoria":"POO Conocimientos Generales Refuerzo",
+        "pregunta":"32 Es un patron de diseño estructural que te permite <b>añadir funcionalidades</b> a objetos colocando estos objetos encapsuladores especiales que contienen estas funcionalidades",
+        "respuesta":"Decorator",
+        "incorrecta1":"mal-1",
+        "incorrecta2":"mal-2",
+        "incorrecta3":"mal-3",
+        "imagen":"",
+        "objectFit":"cover"
+    }
+]
