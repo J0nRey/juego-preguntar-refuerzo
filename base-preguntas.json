@@ -46,7 +46,7 @@
     {
         "index": 5,
         "categoria":"LitElement refuerzo",
-        "pregunta":"Este metodo es llamado cada vez que se asigna valor a una propiedadreactiva",
+        "pregunta":"Este metodo es llamado cada vez que se asigna valor a una propiedad reactiva",
         "respuesta":"hasChanged",
         "incorrecta1":"mal-1",
         "incorrecta2":"mal-2",
@@ -68,7 +68,7 @@
     {
         "index": 7,
         "categoria":"LitElement refuerzo",
-        "pregunta":"¿Cual es la secuencia del ciclo de vida de un componente después de su primer renderizado?",
+        "pregunta":"¿Cual es la secuencia del ciclo de vida de un componente en su primer renderizado?",
         "respuesta":"constructor -> connectedCallback -> <b>update -> render -> updated</b> -> firstUpdated",
         "incorrecta1":"mal-1",
         "incorrecta2":"mal-2",
@@ -90,7 +90,7 @@
     {
         "index": 9,
         "categoria":"JavaScript",
-        "pregunta":"Cuales No son palabras reservadas en JavaScript",
+        "pregunta":"Cuales <b>No</b> son palabras reservadas en JavaScript",
         "respuesta":"<b>field</b>, constant, variable, wait",
         "incorrecta1":"mal-1",
         "incorrecta2":"mal-2",
@@ -101,7 +101,7 @@
     {
         "index": 10,
         "categoria":"POO Conocimientos Generales Refuerzo",
-        "pregunta":"codigo de respuesta HTTP que regresa si el clientetiene <b>prohibido el acceso</b>",
+        "pregunta":"codigo de respuesta HTTP que regresa si el cliente tiene <b>prohibido el acceso</b>",
         "respuesta":"403",
         "incorrecta1":"mal-1",
         "incorrecta2":"mal-2",
@@ -156,7 +156,7 @@
     {
         "index": 15,
         "categoria":"POO Conocimientos Generales Refuerzo",
-        "pregunta":"Es un mecanismo basado en cabeceras http que permite a un servidor indicar cualquier origen distinto del propio, desde el cuál un navegador tendría permitido obtener sus recursos.",
+        "pregunta":"Es un mecanismo basado en cabeceras HTTP que permite a un servidor indicar cualquier origen distinto del propio, desde el cuál un navegador tendría permitido obtener sus recursos.",
         "respuesta":"<b>CORS</b>",
         "incorrecta1":"mal-1",
         "incorrecta2":"mal-2",
